@@ -23069,33 +23069,35 @@ a90:function a90(){},
 Mh:function Mh(a,b,c){this.c=a
 this.d=b
 this.a=c},
-aJS(){var s,r,q,p,o,n,m,l,k,j=null
-if($.a9==null){s=A.a([],t.GA)
-r=$.ax
-q=$.av()
-p=A.a([],t.Jh)
-o=A.bA(7,j,!1,t.JI)
-n=t.S
-m=t.j1
-n=new A.MP(j,j,$,s,j,!0,new A.bZ(new A.aJ(r,t.V),t.gR),!1,j,!1,$,j,$,$,$,A.C(t.K,t.Ju),!1,0,!1,$,0,j,$,$,new A.Td(A.aI(t.M)),$,$,$,new A.cc(j,q),$,j,A.aI(t.Jx),p,j,A.aII(),new A.I9(A.aIH(),o,t.G7),!1,0,A.C(n,t.h1),A.cI(n),A.a([],m),A.a([],m),j,!1,B.cF,!0,!1,j,B.x,B.x,j,0,j,!1,j,j,0,A.me(j,t.qL),new A.a7v(A.C(n,t.rr),A.C(t.Ld,t.iD)),new A.a1b(A.C(n,t.cK)),new A.a7y(),A.C(n,t.Fn),$,!1,B.BV)
-n.fg()
-n.XM()}s=$.a9
+aJS(){var s,r,q,p,o,n,m,l,k=null,j=window.location.host
+j.toString
+if(j!=="https://sk123411.github.io/testing-hanxel-project/"){window.alert("This application is not authorized to run on this domain.")
+return}if($.a9==null){j=A.a([],t.GA)
+s=$.ax
+r=$.av()
+q=A.a([],t.Jh)
+p=A.bA(7,k,!1,t.JI)
+o=t.S
+n=t.j1
+o=new A.MP(k,k,$,j,k,!0,new A.bZ(new A.aJ(s,t.V),t.gR),!1,k,!1,$,k,$,$,$,A.C(t.K,t.Ju),!1,0,!1,$,0,k,$,$,new A.Td(A.aI(t.M)),$,$,$,new A.cc(k,r),$,k,A.aI(t.Jx),q,k,A.aII(),new A.I9(A.aIH(),p,t.G7),!1,0,A.C(o,t.h1),A.cI(o),A.a([],n),A.a([],n),k,!1,B.cF,!0,!1,k,B.x,B.x,k,0,k,!1,k,k,0,A.me(k,t.qL),new A.a7v(A.C(o,t.rr),A.C(t.Ld,t.iD)),new A.a1b(A.C(o,t.cK)),new A.a7y(),A.C(o,t.Fn),$,!1,B.BV)
+o.fg()
+o.XM()}j=$.a9
+j.toString
+s=$.aT()
+r=t.e8
+q=r.a(s.gcQ().b.h(0,0))
+q.toString
+p=j.gxO()
+m=j.ay$
+if(m===$){s=r.a(s.gcQ().b.h(0,0))
 s.toString
-r=$.aT()
-q=t.e8
-p=q.a(r.gcQ().b.h(0,0))
-p.toString
-o=s.gxO()
-l=s.ay$
-if(l===$){r=q.a(r.gcQ().b.h(0,0))
-r.toString
-k=new A.S9(B.E,r,j,A.ak())
-k.aB()
-k.Ys(j,j,r)
-s.ay$!==$&&A.aq()
-s.ay$=k
-l=k}s.Ty(new A.AU(p,new A.Jd(j),o,l,j))
-s.FZ()},
+l=new A.S9(B.E,s,k,A.ak())
+l.aB()
+l.Ys(k,k,s)
+j.ay$!==$&&A.aq()
+j.ay$=l
+m=l}j.Ty(new A.AU(q,new A.Jd(k),p,m,k))
+j.FZ()},
 Jd:function Jd(a){this.a=a},
 wK:function wK(a,b,c){this.c=a
 this.d=b
