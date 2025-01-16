@@ -23071,7 +23071,7 @@ this.d=b
 this.a=c},
 aJS(){var s,r,q,p,o,n,m,l,k=null,j=window.location.host
 j.toString
-if(j!=="https://sk123411.github.io/testing-hanxel-project/"){window.alert("This application is not authorized to run on this domain.")
+if(!B.d.t(j,"sk123411.github.io")){window.alert("This application is not authorized to run on this domain.")
 return}if($.a9==null){j=A.a([],t.GA)
 s=$.ax
 r=$.av()
