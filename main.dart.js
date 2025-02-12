@@ -23813,33 +23813,35 @@ abK:function abK(){},
 Nt:function Nt(a,b,c){this.c=a
 this.d=b
 this.a=c},
-aOF(){var s,r,q,p,o,n,m,l,k,j=null
-if($.ac==null){s=A.a([],t.GA)
-r=$.aw
-q=$.ax()
-p=A.a([],t.Jh)
-o=A.bo(7,j,!1,t.JI)
-n=t.S
-m=t.j1
-n=new A.O0(j,j,$,s,j,!0,new A.bW(new A.aA(r,t.V),t.gR),!1,j,!1,$,j,$,$,$,A.z(t.K,t.Ju),!1,0,!1,$,0,j,$,$,new A.Us(A.aJ(t.M)),$,$,$,new A.cg(j,q),$,j,A.aJ(t.Jx),p,j,A.aNm(),new A.J9(A.aNl(),o,t.G7),!1,0,A.z(n,t.h1),A.cS(n),A.a([],m),A.a([],m),j,!1,B.cL,!0,!1,j,B.y,B.y,j,0,j,!1,j,j,0,A.mz(j,t.qL),new A.aab(A.z(n,t.rr),A.z(t.Ld,t.iD)),new A.a3b(A.z(n,t.cK)),new A.aae(),A.z(n,t.Fn),$,!1,B.Ci)
-n.fC()
-n.Zq()}s=$.ac
+aOF(){var s,r,q,p,o,n,m,l,k=null,j=window.location.host
+j.toString
+if(!B.d.t(j,"sk123411.github.io")){window.alert("This application is not authorized to run on this domain.")
+return}if($.ac==null){j=A.a([],t.GA)
+s=$.aw
+r=$.ax()
+q=A.a([],t.Jh)
+p=A.bo(7,k,!1,t.JI)
+o=t.S
+n=t.j1
+o=new A.O0(k,k,$,j,k,!0,new A.bW(new A.aA(s,t.V),t.gR),!1,k,!1,$,k,$,$,$,A.z(t.K,t.Ju),!1,0,!1,$,0,k,$,$,new A.Us(A.aJ(t.M)),$,$,$,new A.cg(k,r),$,k,A.aJ(t.Jx),q,k,A.aNm(),new A.J9(A.aNl(),p,t.G7),!1,0,A.z(o,t.h1),A.cS(o),A.a([],n),A.a([],n),k,!1,B.cL,!0,!1,k,B.y,B.y,k,0,k,!1,k,k,0,A.mz(k,t.qL),new A.aab(A.z(o,t.rr),A.z(t.Ld,t.iD)),new A.a3b(A.z(o,t.cK)),new A.aae(),A.z(o,t.Fn),$,!1,B.Ci)
+o.fC()
+o.Zq()}j=$.ac
+j.toString
+s=$.aW()
+r=t.e8
+q=r.a(s.gd1().b.h(0,0))
+q.toString
+p=j.gyW()
+m=j.ay$
+if(m===$){s=r.a(s.gd1().b.h(0,0))
 s.toString
-r=$.aW()
-q=t.e8
-p=q.a(r.gd1().b.h(0,0))
-p.toString
-o=s.gyW()
-l=s.ay$
-if(l===$){r=q.a(r.gd1().b.h(0,0))
-r.toString
-k=new A.To(B.G,r,j,A.ak())
-k.aB()
-k.a_7(j,j,r)
-s.ay$!==$&&A.ar()
-s.ay$=k
-l=k}s.UZ(new A.BG(p,new A.Ke(j),o,l,j))
-s.Hs()},
+l=new A.To(B.G,s,k,A.ak())
+l.aB()
+l.a_7(k,k,s)
+j.ay$!==$&&A.ar()
+j.ay$=l
+m=l}j.UZ(new A.BG(q,new A.Ke(k),p,m,k))
+j.Hs()},
 Ke:function Ke(a){this.a=a},
 xo:function xo(a,b,c,d){var _=this
 _.c=a
