@@ -23816,35 +23816,33 @@ abK:function abK(){},
 Nt:function Nt(a,b,c){this.c=a
 this.d=b
 this.a=c},
-aOP(){var s,r,q,p,o,n,m,l,k=null,j=window.location.host
-j.toString
-if(!B.d.t(j,"sk123411.github.io")){window.alert("This application is not authorized to run on this domain.")
-return}if($.ac==null){j=A.a([],t.GA)
-s=$.aw
-r=$.ax()
-q=A.a([],t.Jh)
-p=A.bp(7,k,!1,t.JI)
-o=t.S
-n=t.j1
-o=new A.O0(k,k,$,j,k,!0,new A.bW(new A.aA(s,t.V),t.gR),!1,k,!1,$,k,$,$,$,A.z(t.K,t.Ju),!1,0,!1,$,0,k,$,$,new A.Ut(A.aJ(t.M)),$,$,$,new A.cg(k,r),$,k,A.aJ(t.Jx),q,k,A.aNw(),new A.Jb(A.aNv(),p,t.G7),!1,0,A.z(o,t.h1),A.cS(o),A.a([],n),A.a([],n),k,!1,B.cS,!0,!1,k,B.y,B.y,k,0,k,!1,k,k,0,A.my(k,t.qL),new A.aab(A.z(o,t.rr),A.z(t.Ld,t.iD)),new A.a3b(A.z(o,t.cK)),new A.aae(),A.z(o,t.Fn),$,!1,B.C7)
-o.fE()
-o.Zy()}j=$.ac
-j.toString
-s=$.aX()
-r=t.e8
-q=r.a(s.gd1().b.h(0,0))
-q.toString
-p=j.gz4()
-m=j.ay$
-if(m===$){s=r.a(s.gd1().b.h(0,0))
+aOP(){var s,r,q,p,o,n,m,l,k,j=null
+if($.ac==null){s=A.a([],t.GA)
+r=$.aw
+q=$.ax()
+p=A.a([],t.Jh)
+o=A.bp(7,j,!1,t.JI)
+n=t.S
+m=t.j1
+n=new A.O0(j,j,$,s,j,!0,new A.bW(new A.aA(r,t.V),t.gR),!1,j,!1,$,j,$,$,$,A.z(t.K,t.Ju),!1,0,!1,$,0,j,$,$,new A.Ut(A.aJ(t.M)),$,$,$,new A.cg(j,q),$,j,A.aJ(t.Jx),p,j,A.aNw(),new A.Jb(A.aNv(),o,t.G7),!1,0,A.z(n,t.h1),A.cS(n),A.a([],m),A.a([],m),j,!1,B.cS,!0,!1,j,B.y,B.y,j,0,j,!1,j,j,0,A.my(j,t.qL),new A.aab(A.z(n,t.rr),A.z(t.Ld,t.iD)),new A.a3b(A.z(n,t.cK)),new A.aae(),A.z(n,t.Fn),$,!1,B.C7)
+n.fE()
+n.Zy()}s=$.ac
 s.toString
-l=new A.Tp(B.G,s,k,A.ak())
-l.aC()
-l.a_f(k,k,s)
-j.ay$!==$&&A.as()
-j.ay$=l
-m=l}j.V6(new A.BJ(q,new A.Kf(k),p,m,k))
-j.Hx()},
+r=$.aX()
+q=t.e8
+p=q.a(r.gd1().b.h(0,0))
+p.toString
+o=s.gz4()
+l=s.ay$
+if(l===$){r=q.a(r.gd1().b.h(0,0))
+r.toString
+k=new A.Tp(B.G,r,j,A.ak())
+k.aC()
+k.a_f(j,j,r)
+s.ay$!==$&&A.as()
+s.ay$=k
+l=k}s.V6(new A.BJ(p,new A.Kf(j),o,l,j))
+s.Hx()},
 Kf:function Kf(a){this.a=a},
 xt:function xt(a,b,c,d){var _=this
 _.c=a
@@ -80061,7 +80059,7 @@ p=A.av("assets/home_rec_seven.png",b1,b1,35*$.a2.D()/100,70*$.V.D()/100)
 o=$.a2.D()
 n=$.V.D()
 m=t.p
-r=A.H(b1,A.dd(B.B,A.a([q,A.dd(B.B,A.a([p,A.H(b1,A.an(A.a([A.Z("HanXcel AI Technologies Pvt. Ltd",b1,b1,b1,b1,A.aG().$3$color$fontSize$fontWeight(B.o,A.aO(18),B.p),B.a1,b1),A.C(b1,$.a2.D()/100,b1),A.Z(u.C,b1,b1,b1,b1,A.aG().$2$color$fontSize(B.o,A.aO(14)),B.a1,b1)],m),B.m,B.a_,B.h),B.e,b1,b1,b1,b1,30*o/100,b1,b1,b1,b1,b1,50*n/100)],m),B.A,B.a6)],m),B.A,B.a6),B.e,b1,b1,b1,b1,40*s/100,b1,b1,b1,b1,b1,80*r/100)
+r=A.H(b1,A.dd(B.B,A.a([q,A.dd(B.B,A.a([p,A.H(b1,A.an(A.a([A.Z("HanXcel AI Technologies Pvt. Ltd",b1,b1,b1,b1,A.aG().$3$color$fontSize$fontWeight(B.o,A.aO(18),B.p),B.a1,b1),A.C(b1,$.a2.D()/100,b1),A.Z(u.C,b1,b1,b1,b1,A.aG().$2$color$fontSize(B.o,A.aO(14)),B.a1,b1)],m),B.m,B.a_,B.h),B.e,b1,b1,b1,b1,30*o/100,b1,b1,b1,b1,b1,60*n/100)],m),B.A,B.a6)],m),B.A,B.a6),B.e,b1,b1,b1,b1,40*s/100,b1,b1,b1,b1,b1,80*r/100)
 s=A.aG().$2$fontSize$fontWeight($.jh(),B.p)
 n=t.O
 o=A.a([new A.az(A.aI("#21BFEF")>>>0),new A.az(A.aI("#4C1989")>>>0)],n)
